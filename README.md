@@ -14,9 +14,7 @@
 ---
 
 
-### 📌 Featured projects
-
-- COMING SOON (WIP)
+### 📌 Featured projects (WIP)
 
 ---
 
