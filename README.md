@@ -1,4 +1,5 @@
-## Full Stack Developer 👋
+## Full Stack Developer
+(ngl, I'm actually more of a web developer)
 
 <!--
 **jchabra69/jchabra69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
