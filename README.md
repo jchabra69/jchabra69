@@ -2,7 +2,7 @@
 (ngl, I'm actually more of a web developer)
 
 ### ⚙️ Languages/Techs 
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,figma,angular&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,c++,nodejs,figma,angular,html,css)](https://skillicons.dev)
 
 ### 📊 Stats
 <p align="center">
