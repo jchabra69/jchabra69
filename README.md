@@ -1,4 +1,4 @@
-## Full Stack Developer
+## Web Developer
 
 ### ⚙️ Languages/Techs 
 [![My Skills](https://skillicons.dev/icons?i=java,py,cpp,javascript,nodejs,figma,angular,html,css,androidstudio,azure,docker,jenkins,mysql,ps,powershell,windows,wordpress,webstorm,ubuntu,selenium,idea,bash,arduino,bots)](https://skillicons.dev)
